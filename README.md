@@ -18,4 +18,12 @@ The purpose of this task is to:
 
 Dataset used for this task was presented by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and customer churn Retention dataset:
 
-Dataset:
+Dataset: [Customer Churn Retention](https://github.com/yogeshkasar778/PWC_task_2---Customer_Churn_Retension_dashboard/blob/main/02%20Churn-Dataset.xlsx)
+
+## Data Preparation:
+
+Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
+
+Customer Churn dataset is give table named:
+
+- `Customer churn dataset` which has `10 columns and 5000 rows` of observation
